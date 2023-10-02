@@ -1,0 +1,75 @@
+.sosialmedia{
+    border: 4px solid black;
+    margin-bottom: 30px;
+    width: 900px;
+    height: 30px;
+    position: relative;
+
+}
+
+.Judul{
+    color: bisque;
+    border: 1px solid black;
+    background-color: rgb(75, 73, 189);
+    position: relative;
+
+}
+
+body{
+    background-color: rgb(14, 152, 177);
+    position: relative;
+}
+
+.kucingRambutPendek{
+    margin-bottom: 30px;
+    position: relative;
+    border: 3px solid black;
+    background-color: #1d6bb4;
+    position: relative;
+    width: 600px;
+    height: 150px;
+}
+
+.AmericanShorthair{
+    border: 2px solid black;
+    position: relative;
+    background-color: rgb(132, 205, 218);
+    position: relative;
+    
+}
+
+.FotoKucing1{
+    width: 500px;
+    height: 300px;
+    border: 5px double black;
+}
+
+.FotoKucing2{
+    border: 10px double black;
+    position: relative;
+    width: 500px;
+    height: 300px;
+
+}
+
+.Kucing{
+    border: 2px dotted black;
+    margin-bottom: 30px;
+    width: 700px;
+    background-color: #1d6bb4;
+    position: relative;
+}
+
+.Kucing2{
+    border: 2px dotted black;
+    background-color: #1d6bb4;
+    position: relative;
+}
+
+.Footer{
+    border: 1px solid black;
+    margin-top: 30px;
+    background-color: rgb(12, 219, 185);
+    position: relative;
+
+}
